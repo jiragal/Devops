@@ -1,1 +1,2 @@
-I am Sanjiva  "This is my first Commit"
+"terminal.integrated.shell.windows":"C:\\Program Files\\Git\\bin\\bash.exe"
+
